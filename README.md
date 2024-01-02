@@ -16,5 +16,4 @@ I'm a first-year master's student in Cybersecurity at Unicam in Camerino.
 
 ## 📫 Contact Me
 
-- Email: [Your Email]
-- LinkedIn: Your LinkedIn
+- Email: [nabilboudlal22@outlook.it]
