@@ -1,6 +1,6 @@
 # Hello, I'm Nabil 👋
 
-I'm a first-year master's student in Cybersecurity at Unicam in Camerino.
+I'm a first-year master's student in Cybersecurity at Unicam in Camerino. For my bachelor thesis I've worked with some Deep Learning tools such as Tensorflow, Keras to work and train AI models applied to OCR Techonlogies.
 
 ## 🎓 Education
 
